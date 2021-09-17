@@ -19,9 +19,8 @@
 <p align="center">
 
   <h3 align="center">Stanford CS229A Class Final Project</h3>
-The goal of the study was to replicate a numerical CFD reservoir simulator using ML for SBO applications. Tuned 3rd degree polynomial kernel showed the best performance compared to the other SVM kernel counterparts. Meanwhile, ANN was found superior in predicting oil and water production rates when compared to SVM. ANN model accuracy was verified for SBO applications using a CFD optimization problem. Future work could investigate the use of recurrent neural networks (RNN) as to highlight the sequential nature of the data at hand. Also, heterogeneous gas reservoir CFD models could be explored. 
   <p align="center">
-
+The goal of the study was to replicate a numerical CFD reservoir simulator using ML for SBO applications. Tuned 3rd degree polynomial kernel showed the best performance compared to the other SVM kernel counterparts. Meanwhile, ANN was found superior in predicting oil and water production rates when compared to SVM. ANN model accuracy was verified for SBO applications using a CFD optimization problem. Future work could investigate the use of recurrent neural networks (RNN) as to highlight the sequential nature of the data at hand. Also, heterogeneous gas reservoir CFD models could be explored. 
     <br />
     <a href="https://github.com/aljubrmj/CS-229A_ML-Surrogate-Based-Opt"><strong>Explore the docs »</strong></a>
     <br />
